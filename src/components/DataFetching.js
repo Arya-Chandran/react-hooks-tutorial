@@ -30,7 +30,7 @@ function DataFetching(props) {
                     <li key={post.id}>
                     {post.title}
                     </li>
-                ))}
+                ))} 
             </ul> */}
         </div>
     );
